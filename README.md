@@ -1,2 +1,2 @@
-# Tableau-Adidass-US-Sales-Regien-Anaysis-
-Interactive dashboard to analyze Adidas US sales data 
+# Tableau-Adidass-US-Sales-Regien-Anaysis
+Developed an interactive dashboard to analyze Adidas sales data across regions, product categories, and retail channels. Enabled dynamic filtering and visual storytelling to uncover key trends, identify high-performing areas, and support data-driven business decisions.
